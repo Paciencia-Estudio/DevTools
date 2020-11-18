@@ -1,10 +1,10 @@
 {
   "name": "com.paciencia.devkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Paciencia Dev Kit",
-  "description": "Kit de ferramentas \u00fateis utilizadas pelas equipes da Paci\u00eancia",
+  "description": "Kit de ferramentas \u00fateis utilizadas pelas equipes da Paci\u00eancia\n\nAlgumas coisas podem n\u00e3o estar funcioanando muito bem...",
   "unity": "2019.4",
-  "unityRelease": "0b5",
+  "unityRelease": "0b6",
   "keywords": [
     "Ferramentas",
     "Paci\u00eancia",
@@ -14,5 +14,6 @@
     "name": "Paci\u00eancia Hub",
     "email": "paciencia.estudio@gmail.com",
     "url": "https://souvitorgabriel.github.io"
-  }
+  },
+  "type": "tool"
 }

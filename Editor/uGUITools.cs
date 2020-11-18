@@ -2,7 +2,7 @@
 using UnityEngine;
 
 public class uGUITools : MonoBehaviour {
-	[MenuItem("uGUI/Anchors to Corners %[")]
+	[MenuItem("uGUIv2/Anchors to Corners %[")]
 	static void AnchorsToCorners(){
 		foreach(Transform transform in Selection.transforms){
 			RectTransform t = transform as RectTransform;
